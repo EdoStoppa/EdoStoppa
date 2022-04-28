@@ -18,6 +18,7 @@ My name is Edoardo, now I'm partecipating in a **Double Degree Master Program in
   <a href="https://www.linkedin.com/in/edostoppa/">
     <img border="0" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
+</div>
 <div align="center">
   <a href="mailto:stoppa.edoardo98@gmail,com">
     <img border="0" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="github">
