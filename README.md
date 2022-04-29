@@ -1,8 +1,8 @@
-### <p align="left" style="font-weight:bold">👋 <b>Hello World, nice to meet you!</b><p>
+## <p align="left" style="font-weight:bold">👋 <b>Hello World, nice to meet you!</b><p>
 My name is Edoardo, now I'm partecipating in a **Double Degree Master Program in Computer Science** between the University of Illinois at Chicago (UIC) and Politecnico di Milano (PoliMi). I'm currently working on my Master's Thesis on `Dementia Detection`, using a mix of `NLP` and `Graph Machine Learning/Deep Learning`. During my time in Chcicago, I worked as Research Assistant on **Formal Verification** and **Performance Analysis** of complex **Parallel Data Structures**.
 <br /><br /><br />
 
-### <p align="left" style="font-weight:bold">💼 <b>Technology Stack</b><p>
+## <p align="left" style="font-weight:bold">💼 <b>Technology Stack</b><p>
 <div align="left">
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy">
@@ -22,7 +22,7 @@ My name is Edoardo, now I'm partecipating in a **Double Degree Master Program in
 </div>
 <br /><br />
   
-### <p align="left" style="font-weight:bold">🛠️ <b>Interesting Projects</b><p>
+## <p align="left" style="font-weight:bold">🛠️ <b>Interesting Projects</b><p>
  - Master Thesis related
    - [Dementia Features Extractor](https://github.com/EdoStoppa/Dementia_Features_Extractor)
    - [Dementia Graph Generator](https://github.com/EdoStoppa/Dementia_Graph_Generator)
@@ -35,7 +35,7 @@ My name is Edoardo, now I'm partecipating in a **Double Degree Master Program in
 <br /><br /><br />
 
 
-### <p align="left" style="font-weight:bold">📧 <b>How to reach me</b><p> 
+## <p align="left" style="font-weight:bold">📧 <b>How to reach me</b><p> 
 <div align="left">
   <a href="https://www.linkedin.com/in/edostoppa/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
