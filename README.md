@@ -29,6 +29,7 @@ My name is Edoardo, now I'm partecipating in a **Double Degree Master Program in
  - AI related
    - [Curve Fitting with NN](https://github.com/EdoStoppa/CurveFIT) - (My first project on Neural Networks)
    - [CareBot - A simple Healthcare related Chatbot](https://github.com/EdoStoppa/CareBot)
+   - [Network that classify geometric shapes in pictures](https://github.com/EdoStoppa/GeometricShapeClassification)
  - Others
    - [Digital adaptation of board game "Santorini"](https://github.com/EdoStoppa/Santorini)
    - [Maze Generator & Solver](https://github.com/EdoStoppa/MazeVisualizer)
