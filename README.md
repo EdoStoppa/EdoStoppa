@@ -1,9 +1,9 @@
-## <p align="left" style="font-weight:bold">👋 <b>Hello World, nice to meet you!</b><p>
+## <p align="center" style="font-weight:bold">👋 <b>Hello World, nice to meet you!</b><p>
 My name is Edoardo, now I'm partecipating in a **Double Degree Master Program in Computer Science** between the University of Illinois at Chicago (UIC) and Politecnico di Milano (PoliMi). I'm currently working on my Master's Thesis on `Dementia Detection`, using a mix of `NLP` and `Graph Machine Learning/Deep Learning`. During my time in Chcicago, I worked as Research Assistant on **Formal Verification** and **Performance Analysis** of complex **Parallel Data Structures**.
 <br /><br /><br />
 
-## <p align="left" style="font-weight:bold">💼 <b>Technology Stack</b><p>
-<div align="left">
+## <p align="center" style="font-weight:bold">💼 <b>Technology Stack</b><p>
+<div align="center">
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy">
  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
@@ -11,7 +11,7 @@ My name is Edoardo, now I'm partecipating in a **Double Degree Master Program in
  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
 </div>
 
-<div align="left">
+<div align="center">
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j">
@@ -22,7 +22,7 @@ My name is Edoardo, now I'm partecipating in a **Double Degree Master Program in
 </div>
 <br /><br />
   
-## <p align="left" style="font-weight:bold">🛠️ <b>Interesting Projects</b><p>
+## <p align="center" style="font-weight:bold">🛠️ <b>Interesting Projects</b><p>
  - Master Thesis related
    - [Dementia Features Extractor](https://github.com/EdoStoppa/Dementia_Features_Extractor)
    - [Dementia Graph Generator](https://github.com/EdoStoppa/Dementia_Graph_Generator)
@@ -36,9 +36,16 @@ My name is Edoardo, now I'm partecipating in a **Double Degree Master Program in
    - [Maze Generator & Solver](https://github.com/EdoStoppa/MazeVisualizer)
 <br /><br /><br />
 
-
-## <p align="left" style="font-weight:bold">📧 <b>How to reach me</b><p> 
-<div align="left">
+## <p align="center" style="font-weight:bold">🧔 <b>About me</b><p> 
+ - 🖥️ I’m currently learning how to do better during interviews
+ - 👁️ I'd like to learn more about Computer Vision and Anomaly Detection
+ - 🎶 I love music and I play the Guitar, the Bass, and a little bit of Drums
+ - 🏀 I enjoy playing and watching basketball (but I'm a terrible hooper 😅)
+ - 📘 I love to read (mostly fantasy and sci-fi)
+ <br /><br /><br />
+ 
+ ## <p align="center" style="font-weight:bold">📧 <b>How to reach me</b><p> 
+<div align="center">
   <a href="https://www.linkedin.com/in/edostoppa/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -46,11 +53,4 @@ My name is Edoardo, now I'm partecipating in a **Double Degree Master Program in
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
-<br /><br />
 
-## <p align="left" style="font-weight:bold">🧔 <b>About me</b><p> 
- - 🖥️ I’m currently learning how to do better during interviews
- - 👁️ I'd like to learn more about Computer Vision and Anomaly Detection
- - 🎶 I love music and I play the Guitar, the Bass, and a little bit of Drums
- - 🏀 I enjoy playing and watching basketball (but I'm a terrible hooper 😅)
- - 📘 I love to read (mostly fantasy and sci-fi)
