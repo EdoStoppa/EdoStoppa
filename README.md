@@ -27,10 +27,10 @@ My name is Edoardo, now I'm partecipating in a **Double Degree Master Program in
    - [Dementia Features Extractor](https://github.com/EdoStoppa/Dementia_Features_Extractor)
    - [Dementia Graph Generator](https://github.com/EdoStoppa/Dementia_Graph_Generator)
  - AI related
-   - [Curve Fitting with NN](https://github.com/EdoStoppa/CurveFIT) - (My first project using Neural Networks)
-   - [CareBot - A simple Healthcare related Chatbot](https://github.com/EdoStoppa/CareBot)
-   - [Network that classify geometric shapes in pictures](https://github.com/EdoStoppa/GeometricShapeClassification)
    - [Application that generates plausible names given the first letter](https://github.com/EdoStoppa/NameGenerator)
+   - [Network that classify geometric shapes in pictures](https://github.com/EdoStoppa/GeometricShapeClassification)
+   - [CareBot - A simple Healthcare related Chatbot](https://github.com/EdoStoppa/CareBot)
+   - [Curve Fitting with NN](https://github.com/EdoStoppa/CurveFIT) - (My first project using Neural Networks)
  - Software Engineering related
    - [Digital adaptation of board game "Santorini"](https://github.com/EdoStoppa/Santorini)
    - [Maze Generator & Solver](https://github.com/EdoStoppa/MazeVisualizer)
@@ -46,21 +46,11 @@ My name is Edoardo, now I'm partecipating in a **Double Degree Master Program in
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
+<br /><br />
 
-
-  
-  
-<!--
-**EdoStoppa/EdoStoppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <p align="left" style="font-weight:bold">🧔 <b>About me</b><p> 
+ - 🖥️ I’m currently learning how to do better during interviews
+ - 👁️ I'd like to learn more about Computer Vision and Anomaly Detection
+ - 🎶 I love music and I play the Guitar, the Bass, and a little bit of Drums
+ - 🏀 I enjoy playing and watching basketball (but I'm a terrible hooper 😅)
+ - 📘 I love to read (mostly fantasy and sci-fi)
