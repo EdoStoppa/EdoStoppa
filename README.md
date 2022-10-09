@@ -1,5 +1,5 @@
 ## <p align="center" style="font-weight:bold">👋 <b>Hello World, nice to meet you!</b><p>
-My name is Edoardo, now I'm partecipating in a **Double Degree Master Program in Computer Science** between the University of Illinois at Chicago (UIC) and Politecnico di Milano (PoliMi). I'm currently working on my Master's Thesis on `Dementia Detection`, using a mix of `NLP` and `Graph Machine Learning`. I'm currently a `Research Assistant` at UIC, working on a project (in collaboration with UC San Diego) related to Dementia Detection using NLP and Deep Learning**.
+My name is Edoardo, now I'm partecipating in a **Double Degree Master Program in Computer Science** between the University of Illinois at Chicago (UIC) and Politecnico di Milano (PoliMi). I'm currently working on my Master's Thesis on `Dementia Detection`, using a mix of `NLP` and `Graph Machine Learning`. I'm currently a `Research Assistant` at UIC, working on a project (in collaboration with UC San Diego) related to Dementia Detection using NLP and Deep Learning.
 <br /><br /><br />
 
 ## <p align="center" style="font-weight:bold">💼 <b>Technology Stack</b><p>
