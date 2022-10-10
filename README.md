@@ -27,6 +27,7 @@ My name is Edoardo, now I'm partecipating in a **Double Degree Master Program in
    - [Dementia Features Extractor](https://github.com/EdoStoppa/dementiaFeaturesExtractor)
    - [Dementia Graph Generator](https://github.com/EdoStoppa/dementiaGraphGenerator)
    - [Multitask Baseline Performance Evaluation](https://github.com/EdoStoppa/multitaskBaselinePerformance)
+   - [Dementia Detection using Graph ML](https://github.com/EdoStoppa/dementiaGraphPrediction)
  - AI related
    - [Application that generates plausible names given the first letter](https://github.com/EdoStoppa/NameGenerator)
    - [Network that classify geometric shapes in pictures](https://github.com/EdoStoppa/GeometricShapeClassification)
