@@ -1,5 +1,5 @@
 ## <p align="center" style="font-weight:bold">👋 <b>Hello World, nice to meet you!</b><p>
-My name is Edoardo, and I'm participating in a **Double Degree Master's Program in Computer Science** between the University of Illinois at Chicago (UIC) and Politecnico di Milano (PoliMi). I defended my first thesis in Chicago at the start of December 2022 (working on `Dementia Detection`, using a mix of `NLP` and `Graph Machine Learning`), and now I'm graduating from Politecnico di Milano with a thesis on high-performance deployment of AI-based biomedical systems. I'm currently a `Research Assistant` at Oracle Labs (Zurich), working in the Risk Analytics team.
+My name is Edoardo, and I'm a PhD student at Purdue University, advised by Bruno Ribeiro. Between July 2023 and June 2024, I worked as a `Research Assistant` at Oracle Labs (Zurich) in the Risk Analytics team, where I had the opportunity to explore state-of-the-art techniques for anomaly detection. In 2023 I graduated with a Double Master's Degree in CS from the University of Illinois at Chicago (doing research on `Dementia Detection`, using a mix of `NLP` and `Graph Machine Learning`) and from Politecnico di Milano (doing research on `High-performance Computing` for AI systems deployment).
 <br /><br /><br />
 
 ## <p align="center" style="font-weight:bold">💼 <b>Technology Stack</b><p>
@@ -40,7 +40,7 @@ My name is Edoardo, and I'm participating in a **Double Degree Master's Program 
 
 ## <p align="center" style="font-weight:bold">🧔 <b>About me</b><p> 
  - 🖥️ I’m currently learning how to do better during interviews
- - 👁️ I'd like to learn more about Computer Vision and Anomaly Detection
+ - 👁️ I'd like to learn more about Computer Vision
  - 🎶 I love music and I play the Guitar, the Bass, and a little bit of Drums
  - 🏀 I enjoy playing and watching basketball (but I'm a terrible hooper 😅)
  - 📘 I love to read (mostly fantasy and sci-fi)
